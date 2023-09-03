@@ -138,7 +138,7 @@ const Card = () => {
           <MButton text={'< Prev'} func={botao2}></MButton>
           <MButton text={'Next >'} func={botao1}></MButton>
         </div>
-        <BC
+        <BC               // botão cinza para a estilização da pokedex
           position={"absolute"}
           w={"20px"}
           h={"40px"}
